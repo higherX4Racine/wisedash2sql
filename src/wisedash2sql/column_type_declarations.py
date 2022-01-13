@@ -13,7 +13,7 @@ from numpy import (
     str_,
 )
 
-from column_data_type import ColumnDataType
+from .column_data_type import ColumnDataType
 
 
 COLUMN_BLOB = ColumnDataType('blob',

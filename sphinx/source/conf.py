@@ -34,11 +34,9 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.doctest',
     'sphinx.ext.intersphinx',
-    'numpydoc',
-    'sphinx.ext.autosummary',
+    'numpydoc'
 ]
 
-autosummary_generate = True
 numpydoc_show_class_members = False
 
 # Add any paths that contain templates here, relative to this directory.
@@ -70,4 +68,7 @@ html_static_path = ['_static']
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3', None),
+    'numpy': ('https://numpy.org/doc/stable', None),
+    'pandas': ('https://pandas.pydata.org/docs/', None),
+    'sqlalchemy': ('https://docs.sqlalchemy.org/en/20/', None),
 }

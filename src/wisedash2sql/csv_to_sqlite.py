@@ -1,8 +1,5 @@
-r""" Copyright (C) 2021 by Higher Expectations for Racine County
-
-A quick toy for reading a CSV file into an SQLite table
-
-"""
+# Copyright (C) 2021 by Higher Expectations for Racine County
+r"""A quick toy for reading a CSV file into an SQLite table."""
 
 import csv
 import sqlite3

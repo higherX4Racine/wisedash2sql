@@ -3,13 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to wisedash2sql's documentation!
-========================================
+wisedash2sql
+============
 
 .. toctree::
+   :caption: Table of Contents
    :maxdepth: 2
-   :caption: Contents:
-
 
    api
 

@@ -7,8 +7,9 @@ from numpy import dtype
 class ColumnDataType:
     r"""Define a mapping between `pandas` and `dbapi` types
 
-    Parameter
-    ---------
+    Parameters
+    ----------
+
     name : str
         The name of the type
     np_type : np.dtype
