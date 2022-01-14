@@ -8,9 +8,14 @@ wisedash2sql
 
 .. toctree::
    :caption: Table of Contents
-   :maxdepth: 2
+   :maxdepth: 4
 
-   api
+.. autosummary::
+   :toctree: generated
+   :recursive:
+
+   wisedash2sql
+
 
 Indices and tables
 ==================

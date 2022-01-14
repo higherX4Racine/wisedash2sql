@@ -74,7 +74,6 @@ if __name__ == '__main__':
     import csv
     import itertools
     import os
-    import pprint
 
     import sqlalchemy
 

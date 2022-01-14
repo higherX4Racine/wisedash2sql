@@ -11,8 +11,11 @@ import pandas as pd
 def separate_like_tidy(df: pd.DataFrame,
                        target_column: str,
                        separator: str,
-                       new_names: list = [],
+                       new_names: list = None,
                        remove: bool=True) -> pd.DataFrame:
+
+    if new_names is None:
+        new_names = []
 
     target_index = df.columns.get_loc(target_column) + 1
 
@@ -35,7 +38,7 @@ def separate_like_tidy(df: pd.DataFrame,
 
 
 def fix_one_unnamed(s: str,
-                    search_pattern: str=) -> str:
+                    search_pattern: str=None) -> str:
     return '' if search_pattern in s else s.strip()
 
 
@@ -90,7 +93,7 @@ class IndexCleaner:
 
         """
 
-        '' if self._pat in s else s.strip()
+        return '' if self._pat in s else s.strip()
 
     def fix_many(self, iterable: Iterable) -> str:
         r"""Join every field of `iterable` after fixing blanks.
@@ -106,9 +109,10 @@ class IndexCleaner:
 
         """
 
-        self._sep.join(map(self.fix_one,
-                           iterable)) \
-                 .strip(self._sep)
+        return self._sep \
+            .join(map(self.fix_one,
+                      iterable)) \
+            .strip(self._sep)
 
 def fix_empty_multiindex_values(df: pd.DataFrame,
                                 separator: str=';',
