@@ -20,7 +20,7 @@ class ForwardExamResults(BaseTable):
 
     __tablename__ = 'forward_exam_results'
 
-    id                          = Column(Integer, primary_key = True)
+    id                          = Column(Integer, primary_key=True)
     SCHOOL_YEAR                 = Column(String)
     AGENCY_TYPE                 = Column(String)
     CESA                        = Column(Integer)
@@ -74,12 +74,10 @@ if __name__ == '__main__':
     import csv
     import itertools
     import os
-    import pprint
 
     import sqlalchemy
 
     from zip_to_sqlite import zipped_csv_handle
-
 
     FILE_BASE = 'forward_certified_2015-16'
     FILE_PATH = r'C:\Users\matts\Documents\Higher Expectations\RUSD\WISEDash Reports\Forward Exam'
