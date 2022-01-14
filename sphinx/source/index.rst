@@ -6,16 +6,11 @@
 wisedash2sql
 ============
 
-.. toctree::
-   :caption: Table of Contents
-   :maxdepth: 4
-
 .. autosummary::
    :toctree: generated
    :recursive:
 
    wisedash2sql
-
 
 Indices and tables
 ==================

@@ -24,7 +24,6 @@ author = 'Ben Taft'
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
 
-
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -32,12 +31,11 @@ release = '0.0.1'
 # ones.
 extensions = [
     'sphinx.ext.autodoc',
+    'sphinx.ext.autosummary',
     'sphinx.ext.doctest',
     'sphinx.ext.intersphinx',
-    'numpydoc'
+    'numpydoc',
 ]
-
-numpydoc_show_class_members = False
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -48,7 +46,6 @@ templates_path = ['_templates']
 exclude_patterns = [
     '.venv',
 ]
-
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -62,8 +59,20 @@ html_theme = 'alabaster'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-
 # -- Extension configuration -------------------------------------------------
+
+autodoc_default_options = {
+    'members': True,
+    'member_order': 'bysource',
+    'show-inheritance': True,
+}
+
+autosummary_generate = True
+autosummary_generate_overwrite = True
+
+# -- Options for napoleon, numpydoc's extension to sphinx --------------------
+
+numpydoc_show_class_members = False
 
 # -- Options for intersphinx extension ---------------------------------------
 
