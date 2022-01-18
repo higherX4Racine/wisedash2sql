@@ -20,34 +20,34 @@ class ForwardExamResults(BaseTable):
 
     __tablename__ = 'forward_exam_results'
 
-    id                          = Column(Integer, primary_key=True)
-    SCHOOL_YEAR                 = Column(String)
-    AGENCY_TYPE                 = Column(String)
-    CESA                        = Column(Integer)
-    COUNTY                      = Column(String)
-    DISTRICT_CODE               = Column(Integer)
-    SCHOOL_CODE                 = Column(String)
-    GRADE_GROUP                 = Column(String)
-    CHARTER_IND                 = Column(String)
-    DISTRICT_NAME               = Column(String)
-    SCHOOL_NAME                 = Column(String)
-    TEST_SUBJECT                = Column(String)
-    GRADE_LEVEL                 = Column(String)
-    TEST_RESULT                 = Column(String)
-    TEST_RESULT_CODE            = Column(Integer)
-    TEST_GROUP                  = Column(String)
-    GROUP_BY                    = Column(String)
-    GROUP_BY_VALUE              = Column(String)
-    STUDENT_COUNT               = Column(Integer)
-    PERCENT_OF_GROUP            = Column(Float)
-    GROUP_COUNT                 = Column(Integer)
+    id = Column(Integer, primary_key=True)
+    SCHOOL_YEAR = Column(String)
+    AGENCY_TYPE = Column(String)
+    CESA = Column(Integer)
+    COUNTY = Column(String)
+    DISTRICT_CODE = Column(Integer)
+    SCHOOL_CODE = Column(String)
+    GRADE_GROUP = Column(String)
+    CHARTER_IND = Column(String)
+    DISTRICT_NAME = Column(String)
+    SCHOOL_NAME = Column(String)
+    TEST_SUBJECT = Column(String)
+    GRADE_LEVEL = Column(String)
+    TEST_RESULT = Column(String)
+    TEST_RESULT_CODE = Column(Integer)
+    TEST_GROUP = Column(String)
+    GROUP_BY = Column(String)
+    GROUP_BY_VALUE = Column(String)
+    STUDENT_COUNT = Column(Integer)
+    PERCENT_OF_GROUP = Column(Float)
+    GROUP_COUNT = Column(Integer)
     FORWARD_AVERAGE_SCALE_SCORE = Column(Float)
 
     @orm.validates('DISTRICT_CODE',
                    'SCHOOL_CODE',
                    'TEST_RESULT_CODE',
                    )
-    def validate_integer_code(self, key, value):
+    def validate_integer_code(self, _, value):
         r"""Replace non-integer values with a placeholder."""
         try:
             v = int(value)
@@ -59,7 +59,7 @@ class ForwardExamResults(BaseTable):
     @orm.validates('PERCENT_OF_GROUP',
                    'FORWARD_AVERAGE_SCALE_SCORE',
                    )
-    def validate_real_number(self, key, value):
+    def validate_real_number(self, _, value):
         r"""Replace non-float values with a placeholder."""
         try:
             v = float(value)
@@ -92,7 +92,7 @@ if __name__ == '__main__':
     session = sqlalchemy.orm.Session(engine)
 
     OFFSET = 16000
-    COUNT  = 8
+    COUNT = 8
 
     with zipped_csv_handle(FILE_BASE, FILE_PATH) as fh:
         drdr = csv.DictReader(fh)

@@ -2,7 +2,6 @@
 r"""read zip files and add them to a SQLite table."""
 
 from contextlib import contextmanager
-import csv
 import io
 import os
 import zipfile
@@ -10,7 +9,7 @@ import zipfile
 
 @contextmanager
 def zipped_csv_handle(archive_base_name: str,
-                      dir_path: str='',
+                      dir_path: str = '',
                       file_base_name: str = None,
                       mode: str = 'r'):
     r"""Access a zipped csv file as a TextIOBase stream.
