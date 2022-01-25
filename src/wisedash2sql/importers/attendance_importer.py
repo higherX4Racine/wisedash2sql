@@ -7,7 +7,7 @@ from pandas import (
     UInt32Dtype,
 )
 
-from .wisedash_importer import WISEDashImporter
+from wisedash2sql.importers.wisedash_importer import WISEDashImporter
 
 
 class AttendanceImporter(WISEDashImporter):

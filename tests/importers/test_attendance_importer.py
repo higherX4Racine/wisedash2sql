@@ -9,7 +9,7 @@ from pandas import (
 
 import pytest
 
-from wisedash2sql.attendance_importer import AttendanceImporter
+from wisedash2sql.importers import AttendanceImporter
 
 
 @pytest.fixture

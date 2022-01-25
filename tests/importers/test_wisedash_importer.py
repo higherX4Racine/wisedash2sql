@@ -3,7 +3,7 @@ r"""WISEDashImporter objects contain information about data table formats."""
 
 import pytest
 
-from wisedash2sql.wisedash_importer import WISEDashImporter
+from wisedash2sql.importers import WISEDashImporter
 
 
 @pytest.fixture
