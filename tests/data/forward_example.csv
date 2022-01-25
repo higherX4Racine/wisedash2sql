@@ -1,0 +1,43 @@
+,SCHOOL_YEAR,AGENCY_TYPE,CESA,COUNTY,DISTRICT_CODE,SCHOOL_CODE,GRADE_GROUP,CHARTER_IND,DISTRICT_NAME,SCHOOL_NAME,TEST_SUBJECT,GRADE_LEVEL,TEST_RESULT,TEST_RESULT_CODE,TEST_GROUP,GROUP_BY,GROUP_BY_VALUE,STUDENT_COUNT,PERCENT_OF_GROUP,GROUP_COUNT,FORWARD_AVERAGE_SCALE_SCORE
+569606,2020-21,School District,1,Waukesha,3925,,[All],False,New Berlin,[Districtwide],ELA,8,Basic,2,Forward,Race/Ethnicity,White,86,31.15999984741211,276,643.4600219726562
+403513,2020-21,Public school,2,Dane,3269,660,Elementary School,False,Madison Metropolitan,Huegel Elementary,Mathematics,4,Below Basic,1,Forward,Gender,Female,4,10.0,40,557.1300048828125
+458301,2020-21,Public school,11,Dunn,3444,220,Elementary School,False,Menomonie Area,River Heights Elementary,ELA,4,Proficient,3,Forward,Gender,Female,5,23.809999465942383,21,549.1400146484375
+148661,2020-21,Public school,9,Marathon,4970,30,Junior High School,False,D C Everest Area,D C Everest Junior High,Social Studies,8,Proficient,3,Forward,Economic Status,Not Econ Disadv,104,39.099998474121094,266,609.3200073242188
+25511,2020-21,Public school,6,Outagamie,147,180,Elementary School,False,Appleton Area,Highlands Elementary,Mathematics,5,Advanced,4,Forward,Migrant Status,Not Migrant,1,1.4700000286102295,68,565.9500122070312
+226530,2020-21,School District,1,Milwaukee,1900,,[All],False,Franklin Public,[Districtwide],Science,4,Below Basic,1,Forward,Gender,Male,6,3.9000000953674316,154,513.0700073242188
+624308,2020-21,Public school,6,Winnebago,4179,60,Elementary School,False,Oshkosh Area,E Cook Elementary,ELA,4,Basic,2,Forward,Economic Status,Econ Disadv,5,22.729999542236328,22,541.9500122070312
+582726,2020-21,Public school,11,Saint Croix,3962,20,Elementary School,False,New Richmond,New Richmond Starr Elementary,Social Studies,4,Basic,2,Forward,Gender,Female,11,25.579999923706055,43,398.239990234375
+680772,2020-21,Public school,1,Racine,4620,148,Combined Elementary/Secondary School,False,Racine Unified,Mitchell School,Science,8,,,Forward,EL Status,EL,16,29.09000015258789,55,642.0
+206168,2020-21,School District,2,Rock,1694,,[All],False,Evansville Community,[Districtwide],Social Studies,10,Below Basic,1,Forward,Race/Ethnicity,White,27,24.31999969482422,111,691.22998046875
+869441,2020-21,Public school,6,Fond du Lac,6216,110,Elementary School,False,Waupun,Rock River Intermediate,Mathematics,4,Below Basic,1,Forward,Disability Status,SwD,13,72.22000122070312,18,502.0
+75204,2020-21,School District,4,Jackson,476,,[All],False,Black River Falls,[Districtwide],Mathematics,6,Below Basic,1,Forward,Disability Status,SwoD,30,28.299999237060547,106,602.47998046875
+555450,2020-21,School District,1,Waukesha,3857,,[All],False,Muskego-Norway,[Districtwide],Social Studies,4,Basic,2,Forward,Gender,Female,32,17.979999542236328,178,422.6600036621094
+283557,2020-21,Public school,6,Washington,2443,40,Elementary School,False,Hartford J1,Lincoln Elementary,ELA,5,Basic,2,Forward,Race/Ethnicity,White,21,32.810001373291016,64,581.1900024414062
+623945,2020-21,School District,6,Winnebago,4179,,[All],False,Oshkosh Area,[Districtwide],Social Studies,8,Proficient,3,Forward,Race/Ethnicity,White,153,31.219999313354492,490,602.3699951171875
+421756,2020-21,School District,12,Douglas,3297,,[All],False,Maple,[Districtwide],Social Studies,8,,,DLM,Migrant Status,[Data Suppressed],,,,
+190641,2020-21,School District,11,Dunn,1645,,[All],False,Elk Mound Area,[Districtwide],Mathematics,4,Proficient,3,Forward,Disability Status,SwoD,32,41.029998779296875,78,599.8499755859375
+850302,2020-21,School District,2,Jefferson,6125,,[All],False,Watertown Unified,[Districtwide],ELA,7,,,Forward,Gender,Female,7,7.449999809265137,94,625.9400024414062
+620773,2020-21,Public school,2,Dane,4144,50,Elementary School,False,Oregon,Prairie View Elementary,Social Studies,4,,,Forward,Migrant Status,Not Migrant,9,12.5,72,410.3299865722656
+816489,2020-21,Public school,4,Monroe,5747,240,Elementary School,False,Tomah Area,Wyeville Elementary,Mathematics,3,Advanced,4,Forward,EL Status,Eng Prof,2,8.699999809265137,23,544.4299926757812
+478910,2020-21,Public school,1,Milwaukee,3619,41,Middle School,False,Milwaukee,Audubon Technology and Communication Middle,Mathematics,6,,,DLM,All Students,[Data Suppressed],,,,
+122568,2020-21,Public school,10,Chippewa,1092,200,Elementary School,False,Chippewa Falls Area Unified,Stillson Elementary,Mathematics,5,Basic,2,Forward,Disability Status,SwD,3,37.5,8,576.1400146484375
+93089,2020-21,Public school,10,Rusk,735,20,Elementary School,False,Bruce,Bruce Elementary,ELA,3,Below Basic,1,Forward,EL Status,Eng Prof,14,45.15999984741211,31,528.1900024414062
+314656,2020-21,School District,5,Waupaca,2639,,[All],False,Iola-Scandinavia,[Districtwide],ELA,8,Advanced,4,Forward,EL Status,Eng Prof,7,15.90999984741211,44,642.4400024414062
+173829,2020-21,Public school,11,Pepin,1499,40,High School,False,Durand-Arkansaw,Durand Middle/High,Social Studies,10,,,DLM,Race/Ethnicity,[Data Suppressed],,,,
+410557,2020-21,Public school,2,Dane,3269,300,Elementary School,False,Madison Metropolitan,Schenk Elementary,ELA,5,Basic,2,Forward,Disability Status,SwoD,3,6.0,50,561.0
+500133,2020-21,Public school,1,Milwaukee,3619,214,Elementary School,False,Milwaukee,Hayes Bilingual School,ELA,7,,,Forward,Disability Status,SwoD,23,38.97999954223633,59,595.3599853515625
+309964,2020-21,Public school,11,Saint Croix,2611,150,Elementary School,False,Hudson,River Crest Elementary,ELA,5,Proficient,3,Forward,Economic Status,Econ Disadv,4,40.0,10,597.7000122070312
+943779,2020-21,School District,9,Vilas,6720,,[All],False,Woodruff J1,[Districtwide],Mathematics,8,Proficient,3,Forward,EL Status,Eng Prof,16,31.3700008392334,51,674.9299926757812
+703280,2020-21,Public school,1,Waukesha,3122,20,Elementary School,False,Richmond,Richmond Elementary,Social Studies,4,Proficient,3,Forward,Gender,Male,4,28.56999969482422,14,439.69000244140625
+253118,2020-21,Public school,11,Burnett,2233,400,Combined Elementary/Secondary School,True,Grantsburg,iForward,Mathematics,8,Below Basic,1,Forward,Disability Status,SwoD,30,43.47999954223633,69,616.8400268554688
+774822,2020-21,School District,10,Marathon,5467,,[All],False,Spencer,[Districtwide],ELA,6,Below Basic,1,Forward,Disability Status,SwoD,5,14.289999961853027,35,618.3300170898438
+844942,2020-21,School District,7,Door,6069,,[All],False,Washington,[Districtwide],ELA,6,,,Forward,Disability Status,[Data Suppressed],,,,
+149106,2020-21,Public school,9,Marathon,4970,50,Elementary School,False,D C Everest Area,Evergreen Elementary,ELA,4,,,Forward,Race/Ethnicity,Two or More,,,6,
+80183,2020-21,School District,8,Shawano,602,,[All],False,Bonduel,[Districtwide],Social Studies,8,Basic,2,Forward,Gender,Male,12,34.290000915527344,35,583.9099731445312
+570829,2020-21,Public school,1,Waukesha,3925,60,Elementary School,False,New Berlin,Elmwood Elementary,ELA,3,Proficient,3,Forward,Migrant Status,Not Migrant,29,34.119998931884766,85,578.72998046875
+501558,2020-21,Public school,1,Milwaukee,3619,852,Elementary School,True,Milwaukee,Highland Community School,Social Studies,8,,,Forward,Disability Status,SwD,,,4,
+334472,2020-21,Public school,6,Outagamie,2758,200,Middle School,False,Kaukauna Area,River View School,Mathematics,5,,,Forward,Race/Ethnicity,White,2,1.0499999523162842,191,613.530029296875
+134643,2020-21,School District,5,Columbia,1183,,[All],False,Columbus,[Districtwide],Mathematics,7,,,Forward,Race/Ethnicity,Amer Indian,,,1,
+347953,2020-21,Public school,1,Kenosha,2793,530,Elementary School,False,Kenosha,Stocker Elementary,ELA,3,,,Forward,Economic Status,Not Econ Disadv,2,10.0,20,550.5
+123657,2020-21,Public school,11,Polk,1120,60,Middle School,False,Clayton,Clayton Middle,Science,8,Advanced,4,Forward,Gender,Male,4,26.670000076293945,15,706.0700073242188
+612142,2020-21,Public school,8,Oconto,4067,180,Middle School,False,Oconto Unified,Oconto Middle,Social Studies,8,Proficient,3,Forward,Gender,Male,14,46.66999816894531,30,594.6699829101562

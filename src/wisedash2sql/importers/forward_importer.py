@@ -26,3 +26,7 @@ class ForwardImporter(WISEDashImporter):
             'GROUP_COUNT': UInt32Dtype(),
             'FORWARD_AVERAGE_SCALE_SCORE': Float32Dtype(),
         }
+        self._empty_codes = super().empty_codes + [
+            'No Test',
+            'no test',
+        ]

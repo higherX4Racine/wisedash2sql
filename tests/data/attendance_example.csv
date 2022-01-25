@@ -1,0 +1,43 @@
+,SCHOOL_YEAR,AGENCY_TYPE,CESA,COUNTY,DISTRICT_CODE,SCHOOL_CODE,GRADE_GROUP,CHARTER_IND,DISTRICT_NAME,SCHOOL_NAME,GROUP_BY,GROUP_BY_VALUE,ABSENTEE_MEASURE,STUDENT_COUNT,ABSENCE_COUNT,ABSENCE_RATE
+81094,2018-19,Public school,5,Dodge,4634,20,Elementary School,False,Randolph,Randolph Elementary,ELL Status,Eng Prof,ESSA,335,18,5.400000095367432
+17922,2018-19,Public school,9,Marathon,4970,200,Middle School,False,D C Everest Area,D C Everest Middle,Race/Ethnicity,Hispanic,STATE,60,4,6.699999809265137
+19142,2018-19,Public school,4,Vernon,1421,50,Middle School,False,De Soto Area,De Soto Middle,Economic Status,Not Econ Disadv,ESSA,59,2,3.4000000953674316
+35940,2018-19,Public school,11,Saint Croix,2611,80,High School,False,Hudson,Hudson High,Migrant Status,Not Migrant,STATE,1801,98,5.400000095367432
+53384,2018-19,Public school,1,Waukesha,3437,40,Elementary School,False,Menomonee Falls,Benjamin Franklin Elementary and Early Learning Center,Race/Ethnicity,Amer Indian,ESSA,1,,
+40260,2018-19,Public school,1,Kenosha,2793,440,Elementary School,False,Kenosha,Prairie Lane Elementary,Gender,Female,STATE,184,0,0.0
+8070,2018-19,Public school,2,Rock,413,410,Combined Elementary/Secondary School,True,Beloit,Roy Chapman Andrews Academy,Economic Status,Not Econ Disadv,STATE,38,,
+72470,2018-19,Public school,4,La Crosse,4095,20,Elementary School,False,Onalaska,Eagle Bluff Elementary,Grade Level,5,STATE,76,0,0.0
+18160,2018-19,Public school,9,Marathon,4970,80,Elementary School,False,D C Everest Area,Rothschild Elementary,Gender,Male,STATE,217,1,0.5
+93297,2018-19,Public Schools-Multidistrict Charters,2,Dane,5621,9803,Combined Elementary/Secondary School,True,Stoughton Area,JEDI Virtual K-12,Grade Level,9,STATE,7,0,0.0
+37671,2018-19,Public school,2,Rock,2695,200,Elementary School,False,Janesville,Lincoln Elementary,Grade Level,KG,STATE,61,3,4.900000095367432
+90555,2018-19,School District,12,Bayfield,4522,,[All],False,South Shore,[Districtwide],Race/Ethnicity,Two or More,STATE,7,0,0.0
+61304,2018-19,Public school,1,Milwaukee,3619,458,High School,False,Milwaukee,Project STAY-Supporting Teachers and Youth,Economic Status,Not Econ Disadv,STATE,49,36,73.5
+110548,2018-19,Public school,4,Juneau,6713,80,High School,False,Wonewoc-Union Center,Wonewoc-Center High,Grade Level,11,ESSA,22,4,18.200000762939453
+8698,2018-19,School District,2,Walworth,6013,,[All],False,Big Foot UHS,[Districtwide],Economic Status,Not Econ Disadv,ESSA,284,24,8.5
+94796,2018-19,Public school,12,Douglas,5663,300,Elementary School,False,Superior,Great Lakes Elementary,Race/Ethnicity,Asian,STATE,7,0,0.0
+12644,2018-19,School District,6,Fond du Lac,910,,[All],False,Campbellsport,[Districtwide],Grade Level,11,STATE,117,2,1.7000000476837158
+59387,2018-19,Public school,1,Milwaukee,3619,337,Elementary School,False,Milwaukee,Kluge Elementary,Race/Ethnicity,White,ESSA,7,,
+28633,2018-19,Public school,10,Buffalo,2142,250,Middle School,False,Gilmanton,Gilmanton Middle,Grade Level,7,ESSA,10,0,0.0
+79356,2018-19,Public school,7,Brown,4613,20,Elementary School,False,Pulaski Community,Fairview Elementary,ELL Status,ELL/LEP,STATE,4,,
+63300,2018-19,School District,9,Oneida,3640,,[All],False,Minocqua J1,[Districtwide],Disability Status,SwD,ESSA,74,6,8.100000381469727
+68583,2018-19,Public school,11,Saint Croix,3962,170,Elementary School,False,New Richmond,New Richmond Hillside Elementary,Race/Ethnicity,Two or More,ESSA,14,,
+103924,2018-19,Public school,1,Milwaukee,6244,160,Elementary School,False,Wauwatosa,Madison Elementary,Grade Level,3,ESSA,48,4,8.300000190734863
+31249,2018-19,Public school,7,Brown,2289,600,High School,False,Green Bay Area Public,Southwest High,ELL Status,ELL/LEP,ESSA,91,16,17.600000381469727
+74445,2018-19,Public school,10,Trempealeau,4186,60,Elementary School,False,Osseo-Fairchild,Osseo-Fairchild Elementary,Race/Ethnicity,Amer Indian,ESSA,5,,
+14648,2018-19,Public school,10,Chippewa,1092,120,Elementary School,False,Chippewa Falls Area Unified,Hillcrest Elementary,All Students,All Students,ESSA,411,11,2.700000047683716
+109552,2018-19,School District,2,Dane,469,,[All],False,Wisconsin Heights,[Districtwide],Grade Level,KG,STATE,64,2,3.0999999046325684
+48359,2018-19,Public school,2,Dane,3269,40,Elementary School,False,Madison Metropolitan,Sandburg Elementary,Gender,Male,ESSA,215,23,10.699999809265137
+26442,2018-19,Public school,1,Milwaukee,1890,20,Middle School,False,Fox Point J2,Bayside Middle,Disability Status,SwD,ESSA,30,2,6.699999809265137
+24069,2018-19,Public school,11,Pierce,1666,40,High School,False,Elmwood,Elmwood High,Migrant Status,Not Migrant,STATE,88,1,1.100000023841858
+75979,2018-19,School District,1,Waukesha,4312,,[All],False,Pewaukee,[Districtwide],Race/Ethnicity,Black,STATE,46,,
+110594,2018-19,Public school,4,Juneau,6713,100,Junior High School,False,Wonewoc-Union Center,Wonewoc-Center Junior High,Race/Ethnicity,Two or More,ESSA,4,,
+96829,2018-19,Public school,5,Waushara,4375,80,Middle School,False,Tri-County Area,Tri-County Middle,Grade Level,8,ESSA,37,4,10.800000190734863
+53930,2018-19,Public school,11,Dunn,3444,20,Elementary School,False,Menomonie Area,Wakanda Elementary,Race/Ethnicity,Black,STATE,7,,
+29485,2018-19,School District,11,Burnett,2233,,[All],False,Grantsburg,[Districtwide],Grade Level,9,STATE,171,7,4.099999904632568
+21702,2018-19,Public school,10,Eau Claire,1554,420,Elementary School,False,Eau Claire Area,Putnam Heights Elementary,Grade Level,KG,ESSA,74,4,5.400000095367432
+38063,2018-19,Public school,2,Rock,2695,340,Elementary School,False,Janesville,Washington Elementary,Grade Level,2,ESSA,42,4,9.5
+2284,2018-19,Public school,6,Outagamie,147,800,Combined Elementary/Secondary School,False,Appleton Area,Appleton Cooperative Educational Center,Race/Ethnicity,[Data Suppressed],ESSA,,,
+102975,2018-19,Public school,9,Marathon,6223,130,Elementary School,False,Wausau,South Mountain Elementary,ELL Status,Eng Prof,ESSA,219,7,3.200000047683716
+107959,2018-19,School District,2,Walworth,6461,,[All],False,Whitewater Unified,[Districtwide],Disability Status,SwoD,STATE,1519,52,3.4000000953674316
+109608,2018-19,Public school,2,Dane,469,40,Elementary School,False,Wisconsin Heights,Mazomanie Elementary,Economic Status,Econ Disadv,ESSA,46,5,10.899999618530273
+59395,2018-19,Public school,1,Milwaukee,3619,1121,Elementary School,True,Milwaukee,La Causa Charter School,Economic Status,Econ Disadv,STATE,671,57,8.5
